@@ -13,6 +13,10 @@
 </div>
 <br />
  <h1>
-  howdy there!
+  howdy there! &nbsp
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA2YTgxZTk4M2MwNzVmN2FjOWUwMDIwMDRjNTZmZTYyODZkYWY1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/1UOtDCipTZrkwn5zMw/giphy.gif" width="50px"/>
 </h1>
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNmMmQzYzhiMzAzZThlMzI2NjM0Y2NiMTg1NmJhNzBkYjVlMmU2OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LV8dLJ1YLxdNvSKSFa/giphy.gif" width="850" height="370"/>
+</div>
