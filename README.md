@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY4YTc5OWU5ODZhMTc5MTcwMGQ4NDFlZWVkOGNmMjIzNGRlMGRlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SUcApSWjPwQMARvcM8/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgyYzA5NTFlY2JhZTE4Nzk1YWNmMjAwNjgyMGEyMWI1ODEzN2MyNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hmJYgqIPz5SsffuDuw/giphy.gif"/>
   <div id="badges">
   <a href="https://linkedin.com/in/vik-furlow">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
-  
-  
-</div>
+<br />
+ <h1>
+  howdy there!
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA2YTgxZTk4M2MwNzVmN2FjOWUwMDIwMDRjNTZmZTYyODZkYWY1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/1UOtDCipTZrkwn5zMw/giphy.gif" width="50px"/>
+</h1>
