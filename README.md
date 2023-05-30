@@ -13,7 +13,7 @@
 </div>
 <br />
  <h1>
-  howdy there! &nbsp
+  howdy! &nbsp
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA2YTgxZTk4M2MwNzVmN2FjOWUwMDIwMDRjNTZmZTYyODZkYWY1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/1UOtDCipTZrkwn5zMw/giphy.gif" width="50px"/>
 </h1>
   
