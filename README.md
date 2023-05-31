@@ -33,7 +33,7 @@ I am a Full Stack Developer and real life Wizard living in Colorado.
 
 - :seedling: Exploring new job oportunities.
 
-- :zap: In my free time, I like to play in dugeons, climb outdoors, and nerd out with my pals.
+- :zap: In my free time, I like to play in dugeons, climb outdoors, 3D print, and slay gods and lords to devour their souls with my pals.
 
 - :mailbox:How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Vik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vik-furlow/)
   
