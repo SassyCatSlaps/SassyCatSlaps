@@ -20,7 +20,7 @@
  </h1>
   
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNmMmQzYzhiMzAzZThlMzI2NjM0Y2NiMTg1NmJhNzBkYjVlMmU2OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LV8dLJ1YLxdNvSKSFa/giphy.gif" width="900" height="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNmMmQzYzhiMzAzZThlMzI2NjM0Y2NiMTg1NmJhNzBkYjVlMmU2OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LV8dLJ1YLxdNvSKSFa/giphy.gif" width="1150" height="450"/>
 </div>
   
 <div align="left">
@@ -79,5 +79,19 @@ I am a Full Stack Developer and real life Wizard living in Colorado.
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" **alt="Xamarin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Unbuntu" **alt="Unbuntu" width="40" height="40"/>&nbsp;
   
+  <br />
 </div>
+
+<div align="left">
+  
+---
+
+### :fire: My Stats :
+  
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SassyCatSlaps&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=SassyCatSlaps&theme=tokyonight)](https://git.io/streak-stats)
+
+</div 
