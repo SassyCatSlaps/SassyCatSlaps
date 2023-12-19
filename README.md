@@ -52,6 +52,7 @@ I do my best to improve and grow a little everyday knowing that this growth will
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" title=".NET" **alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="WebFlow" **alt="Webflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" **alt=".NET Core" width="40" height="40"/>&nbsp;
@@ -106,6 +107,6 @@ I do my best to improve and grow a little everyday knowing that this growth will
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SassyCatSlaps&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=SassyCatSlaps&theme=tokyonight&card_width=500)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=SassyCatSlaps&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
 
 </div 
