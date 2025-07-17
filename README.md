@@ -107,6 +107,6 @@ I do my best to improve and grow a little everyday knowing that this growth will
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SassyCatSlaps&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SassyCatSlaps&theme=tokyonight&card_width=500)](https://git.io/streak-stats)
+
 
 </div 
