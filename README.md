@@ -29,9 +29,10 @@
   
 ### :woman_technologist: About Me :
 I am a Full Stack Developer and real life Wizard living in Colorado.
-- :telescope: I’m working as a Software Engineer for frontend development with a splash of design and UX work.
+- :telescope: I’m working as a Software Engineer for frontend app and web development with a splash of design and UX work. I code in Dart (flutter) for apps, PHP for the web, and use Figma for design.
 
-- :seedling: I'm learning an incredible amount at my current job oportunity. <br />
+- :seedling: I've worked my way up to the job titles of Director of Product Development and Website Administrator! Wow! <br />
+I'm learning an incredible amount at my current jobs. 
 I do my best to improve and grow a little everyday knowing that this growth will be infinite as I continue to code and create.
 
 - :zap: In my free time, I like to play in dugeons, climb outdoors, 3D print, and slay gods and lords to devour their souls with my pals.
