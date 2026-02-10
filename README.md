@@ -29,10 +29,11 @@
   
 ### :woman_technologist: About Me :
 I am a Full Stack Developer and real life Wizard living in Colorado.
-- :telescope: I’m working as a Software Engineer for frontend app and web development with a splash of design and UX work. I code in Dart (flutter) for apps, PHP for the web, and use Figma for design.
+- :telescope: I’m working as a Software Engineer for frontend and backend app and web development with a splash of design UX/UI work.
+  I code in Dart and Python for apps, PHP & JS (and much more) for web, Rails and PostgresSQL for backend, and use Figma for design.
 
-- :seedling: I've worked my way up to the job titles of Director of Product Development and Website Administrator! Wow! <br />
-I'm learning an incredible amount at my current jobs. 
+- :seedling: I'm currently a Director of Product Development, Website Administrator, and Freelance Developer! I've come a long way. <br />
+I'm learning an incredible amount at my current jobs and with my hobby projects. 
 I do my best to improve and grow a little everyday knowing that this growth will be infinite as I continue to code and create.
 
 - :zap: In my free time, I like to play in dugeons, climb outdoors, 3D print, and slay gods and lords to devour their souls with my pals.
@@ -102,7 +103,7 @@ I do my best to improve and grow a little everyday knowing that this growth will
   <br />
 </div>
 
-<div align="left">
+<div align="center">
   
 ---
 
@@ -110,9 +111,8 @@ I do my best to improve and grow a little everyday knowing that this growth will
   
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SassyCatSlaps&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SassyCatSlaps&theme=tokyonight&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SassyCatSlaps&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; 
-
+[![Vik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SassyCatSlaps&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div 
