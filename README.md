@@ -115,4 +115,15 @@ I do my best to improve and grow a little everyday knowing that this growth will
 
 [![Vik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SassyCatSlaps&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div 
+</div>
+
+---
+
+<h3 align="center">🧪 Currently Brewing :</h3>
+<br />
+<div align="left">
+🧙‍♀️ **Alarm Spellbook (Flutter)** — building a smarter alarm experience for my spouse who chronically cannot stop snoozing  <br />
+🧪 **Rails Potion Server** — JSON API + Postgres for syncing alarms & volume settings   <br />
+🧗‍♀️ **Car Side Quests** — tools + music + community <br />
+</div>
+
