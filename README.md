@@ -110,6 +110,8 @@ I do my best to improve and grow a little everyday knowing that this growth will
   
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SassyCatSlaps&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SassyCatSlaps&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; 
 
 
