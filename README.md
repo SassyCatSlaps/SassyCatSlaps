@@ -7,7 +7,7 @@
   <a href="mailto:ViktoriyaFurlow@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a> -->
-   <a href="https://open.spotify.com/playlist/7jvVLjCcg0pgHZsHTWiPup?si=309eb4a1bc9c4c61&nd=1">
+   <a href="https://open.spotify.com/playlist/7jvVLjCcg0pqHZsHTWiPup?si=MOZY005iRRiqbrChlgTcGQ&pi=e6ttsD_wQ8yA2&nd=1&dlsi=a189af0ef9764268">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" 
        alt="Spotify Badge" 
        width="300"/>
