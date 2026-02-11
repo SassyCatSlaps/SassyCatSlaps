@@ -38,7 +38,10 @@ I do my best to improve and grow a little everyday knowing that this growth will
 
 - :zap: In my free time, I like to play in dugeons, climb outdoors, 3D print, and slay gods and lords to devour their souls with my pals.
 
-- :mailbox: How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Vik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vik-furlow/)
+- 🔮 Summon Me: &nbsp; 
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vik-furlow/)  [![Email](https://img.shields.io/badge/Email-Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:viktoriyafurlow@gmail.com)  [![Book a Call](https://img.shields.io/badge/Schedule-Call-00c896?style=flat&logo=calendar&logoColor=white)](https://calendly.com/viktoriyafurlow/30min)  [![Resume](https://img.shields.io/badge/View-Resume-6f42c1?style=flat&logo=readthedocs&logoColor=white)](https://docs.google.com/document/d/15h2pVFPP_mgblX0AjSsXmCt-7DPWjQvSgl5mn8F8aic/edit?usp=sharing)
+
+
   
 </div>
   
@@ -121,9 +124,13 @@ I do my best to improve and grow a little everyday knowing that this growth will
 
 <h3 align="center">🧪 Currently Brewing :</h3>
 <br />
-<div align="left">
-🧙‍♀️ **Alarm Spellbook (Flutter)** — building a smarter alarm experience for my spouse who chronically cannot stop snoozing  <br />
-🧪 **Rails Potion Server** — JSON API + Postgres for syncing alarms & volume settings   <br />
-🧗‍♀️ **Car Side Quests** — tools + music + community <br />
+<div align="center">
+⏰ **Alarm Spellbook (Flutter)** <br /> <img src="https://img.shields.io/badge/Progress-25%25-7aa2f7?style=for-the-badge&labelColor=1a1b26" /> 
+<br />Building a smarter alarm experience for my spouse who chronically cannot stop snoozing <br />
+<br />
+🧪 **Rails Potion Server** <br /> <img src="https://img.shields.io/badge/Progress-30%25-9ece6a?style=for-the-badge&labelColor=1a1b26" /> 
+<br />JSON API + Postgres for syncing alarms & volume settings <br />
+<br />
+🚙 **Car Side Quests**  <br /> <img src="https://img.shields.io/badge/Progress-10%25-f7768e?style=for-the-badge&labelColor=1a1b26" />
+<br />Unique tool for music - respect your community and people around you + drive focused<br />
 </div>
-
